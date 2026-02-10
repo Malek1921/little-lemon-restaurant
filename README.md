@@ -1,12 +1,12 @@
-# 🍋 Little Lemon Restaurant - Table Reservation System
+# Little Lemon Restaurant - Table Reservation System
 
 A modern, responsive web application built with **React** and **Vite** for the Little Lemon Mediterranean restaurant in Chicago. This project serves as the final Capstone for the **Meta Front-End Developer Professional Certificate**.
 
-## 🚀 Project Overview
+## Project Overview
 
 The Little Lemon Table Reservation System allows users to book tables in real-time. The application features a dynamic booking form with availability logic, modern branding, and a fully responsive layout optimized for all devices.
 
-## ✨ Key Features
+## Key Features
 
 * **Dynamic Booking System**: Implements React `useReducer` to manage available time slots based on date selection.
 * **2x2 Grid Form**: A custom-styled, user-friendly booking interface with built-in HTML5 validation.
@@ -14,14 +14,14 @@ The Little Lemon Table Reservation System allows users to book tables in real-ti
 * **Accessibility (A11y)**: Includes semantic HTML and ARIA labels to ensure the app is usable for everyone.
 * **Unit Tested**: Verified logic using Vitest and React Testing Library.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Framework**: [React 18](https://reactjs.org/)
 * **Build Tool**: [Vite](https://vitejs.dev/)
 * **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 * **Testing**: [Vitest](https://vitest.dev/) & [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
-## 📦 Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
